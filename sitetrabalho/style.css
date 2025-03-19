@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{
+    font-family: "Roboto", monospace;
+    background-color: antiquewhite;
+}
+section{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.menu ul li{
+    display: inline-block;
+}
